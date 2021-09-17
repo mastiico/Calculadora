@@ -1,3 +1,3 @@
-# Calculadora
+Calculadora
 Feita em Js
-learning 🦍
+# learning 🦍
